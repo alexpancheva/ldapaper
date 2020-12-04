@@ -6,4 +6,3 @@ This repository contains:
 * R scripts used for the pre-processing of the COVID data
 
 
-TODO
